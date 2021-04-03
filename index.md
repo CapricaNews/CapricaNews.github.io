@@ -1,1 +1,1 @@
-#Placeholder for website project files for Caprica News.
+# Placeholder for website project files for Caprica News.
